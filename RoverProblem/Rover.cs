@@ -1,6 +1,6 @@
 ﻿namespace RoverProblem
 {
-    class Rover
+    public class Rover
     {
         private RoverPosition _roverPosition = new RoverPosition();
         public Rover(RoverPosition Position)
@@ -113,6 +113,11 @@
         public void PrintPosition(string positionType)
         {
             _roverPosition.PrintOnConsole(positionType);
+        }
+
+        public RoverPosition GetRoverPosition()
+        {
+            return _roverPosition;
         }
     }
 }

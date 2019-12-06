@@ -1,0 +1,17 @@
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\bin\Debug\netcoreapp2.1\RoverProblemFixtures.deps.json
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\bin\Debug\netcoreapp2.1\RoverProblemFixtures.runtimeconfig.json
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\bin\Debug\netcoreapp2.1\RoverProblemFixtures.runtimeconfig.dev.json
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\bin\Debug\netcoreapp2.1\RoverProblemFixtures.dll
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\bin\Debug\netcoreapp2.1\RoverProblemFixtures.pdb
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\bin\Debug\netcoreapp2.1\RoverProblem.dll
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\bin\Debug\netcoreapp2.1\RoverProblem.pdb
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\obj\Debug\netcoreapp2.1\RoverProblemFixtures.csprojAssemblyReference.cache
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\obj\Debug\netcoreapp2.1\RoverProblemFixtures.csproj.CoreCompileInputs.cache
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\obj\Debug\netcoreapp2.1\RoverProblemFixtures.AssemblyInfoInputs.cache
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\obj\Debug\netcoreapp2.1\RoverProblemFixtures.AssemblyInfo.cs
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\obj\Debug\netcoreapp2.1\RoverProblemFixtures.csproj.CopyComplete
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\obj\Debug\netcoreapp2.1\RoverProblemFixtures.dll
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblemFixtures\obj\Debug\netcoreapp2.1\RoverProblemFixtures.pdb

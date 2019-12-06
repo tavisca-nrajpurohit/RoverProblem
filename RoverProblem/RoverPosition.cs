@@ -2,17 +2,17 @@
 
 namespace RoverProblem
 {
-    class RoverPosition
+    public class RoverPosition
     {
         private int _x;
         private int _y;
         private char _direction;
 
-        public RoverPosition()
+        public RoverPosition(int x = 0, int y = 0, char direction = 'N')
         {
-            _x = 0;
-            _y = 0;
-            _direction = 'N';
+            _x = x;
+            _y = y;
+            _direction = direction;
         }
 
         public int GetXCord()
