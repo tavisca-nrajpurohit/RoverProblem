@@ -1,0 +1,11 @@
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblem\bin\Debug\netcoreapp2.1\RoverProblem.deps.json
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblem\bin\Debug\netcoreapp2.1\RoverProblem.runtimeconfig.json
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblem\bin\Debug\netcoreapp2.1\RoverProblem.runtimeconfig.dev.json
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblem\bin\Debug\netcoreapp2.1\RoverProblem.dll
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblem\bin\Debug\netcoreapp2.1\RoverProblem.pdb
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblem\obj\Debug\netcoreapp2.1\RoverProblem.csprojAssemblyReference.cache
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblem\obj\Debug\netcoreapp2.1\RoverProblem.csproj.CoreCompileInputs.cache
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblem\obj\Debug\netcoreapp2.1\RoverProblem.AssemblyInfoInputs.cache
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblem\obj\Debug\netcoreapp2.1\RoverProblem.AssemblyInfo.cs
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblem\obj\Debug\netcoreapp2.1\RoverProblem.dll
+C:\Users\nrajpurohit\source\repos\RoverProblem\RoverProblem\obj\Debug\netcoreapp2.1\RoverProblem.pdb
